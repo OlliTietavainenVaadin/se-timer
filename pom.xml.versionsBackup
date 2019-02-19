@@ -3,7 +3,7 @@
 
     <groupId>org.vaadin.olli</groupId>
     <artifactId>se-timer</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
     <name>SE-timer</name>
     <description>Integration of se-timer for Vaadin platform</description>
 
